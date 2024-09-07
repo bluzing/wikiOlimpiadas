@@ -1,4 +1,4 @@
-**##  Busca de Atletas: Seu Portal para os Heróis Olímpicos!** :1st_place_medal:
+## Busca de Atletas: Seu Portal para os Heróis Olímpicos! :1st_place_medal:
 **##  Imersão DEV com Alura** :computer:
 
 **O que faz essa aplicação?**
