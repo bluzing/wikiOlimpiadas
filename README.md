@@ -1,5 +1,5 @@
 ## Busca de Atletas: Seu Portal para os Heróis Olímpicos! :1st_place_medal:
-**##  Imersão DEV com Alura** :computer:
+**##  Imersão DEV com Alura e Google Gemini** :computer:
 
 **O que faz essa aplicação?**
 
